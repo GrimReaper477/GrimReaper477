@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrimReaper477
-- 👀 I’m interested in MMORPG
+- 👀 I’m interested in MMORPG World of Warcraft
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on files
 - 📫 How to reach me sushineko477@gmail.com
